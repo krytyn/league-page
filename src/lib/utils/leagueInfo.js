@@ -11,8 +11,8 @@ export const homepageText = `
   <p>In the innaugural startup season we had managers draft a win now team looking to compete for the coveted ring right away, as well as managers playing for the future of the league and building for a future Juggernaut squad.</p>
   <p>Will strategies from both sides pan out in the immediate season as well as beyond? Or will injuries and hidden gems arise to cause teams that thought they would win it all to tear it down and rebuild while the rebuilders switch to trading futures and win it all.</p>
   <p>With a great group of managers coming together to create this league, there is no lack of chatting and trading througout the year to keep managers active and on their toes, wondering what they will need to do to get their team to the next step.</p>
-  <p>Even though the coveted ring is the end goal for all managers in this league, there is no end to the tilt, memes, and stress that will keep even the last place team engaged until the very end!.</p>
-  <p>With the inaugural season upon us for the 23-24 year, there is many questions left to be answered. Which manager will rise? Which manager will crumble as the season progresses? Who will be the major rivalries of the season? And most important of all, WHO TAKES HOME THE RING?!.</p>
+  <p>Even though the coveted ring is the end goal for all managers in this league, there is no end to the tilt, memes, and stress that will keep even the last place team engaged until the very end!</p>
+  <p>With the inaugural season upon us for the 23-24 year, there is many questions left to be answered. Which manager will rise? Which manager will crumble as the season progresses? Who will be the major rivalries of the season? And most important of all, WHO TAKES HOME THE RING?!</p>
 `;
 
 /*   STEP 3   */
