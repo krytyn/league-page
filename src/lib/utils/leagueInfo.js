@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2023, the Armchair Fantasy Experts began as dynasty league amongst a group of fantasy degens connectting through the Fantasy Footballers Podcast looking to come together and create a dynasty league. Each year, the managers compete to win the coveted fantasy football championship ring, and avoid the truly despicable toilet bowl crown.</p>
+  <p>In the innaugural startup season we had managers draft a win now team looking to compete for the coveted ring right away, as well as managers playing for the future of the league and building for a future Juggernaut squad.</p>
+  <p>Will strategies from both sides pan out in the immediate season as well as beyond? Or will injuries and hidden gems arise to cause teams that thought they would win it all to tear it down and rebuild while the rebuilders switch to trading futures and win it all.</p>
+  <p>With a great group of managers coming together to create this league, there is no lack of chatting and trading througout the year to keep managers active and on their toes, wondering what they will need to do to get their team to the next step.</p>
+  <p>Even though the coveted ring is the end goal for all managers in this league, there is no end to the tilt, memes, and stress that will keep even the last place team engaged until the very end!.</p>
+  <p>With the inaugural season upon us for the 23-24 year, there is many questions left to be answered. Which manager will rise? Which manager will crumble as the season progresses? Who will be the major rivalries of the season? And most important of all, WHO TAKES HOME THE RING?!.</p>
 `;
 
 /*   STEP 3   */
