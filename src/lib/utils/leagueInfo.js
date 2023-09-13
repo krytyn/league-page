@@ -27,7 +27,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
        //{
          //"roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "556325345640869888"
+         //"managerID": "556325345640869888"
          //"name": "rjWhitt",
          //"location": "TBD", // (optional)
          //"joinedLeague": "Inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -47,7 +47,7 @@ export const managers = [
        //},
        //{
          //"roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "917859003743965184"
+         //"managerID": "917859003743965184"
          //"name": "Catch2wnty2",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -67,7 +67,7 @@ export const managers = [
        //},
        //{
          //"roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "725952044090867712"
+         //"managerID": "725952044090867712"
          //"name": "CocoFFL",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -87,7 +87,7 @@ export const managers = [
        //},
        //{
          //"roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "332443107603791872"
+         //"managerID": "332443107603791872"
          //"name": "shmoto",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -107,7 +107,7 @@ export const managers = [
        //},
        //{
          //"roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "916114371233808384"
+         //"managerID": "916114371233808384"
          //"name": "csteele12",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -127,7 +127,7 @@ export const managers = [
        //},
        //{
          //"roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "916114371233808384"
+         //"managerID": "916114371233808384"
          //"name": "Mellis97",
          //"location": "Nova Scotia", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -147,7 +147,7 @@ export const managers = [
        //},
        //{
          //"roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "739318475067105280"
+         //"managerID": "739318475067105280"
          //"name": "Blitzburgh36",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -167,7 +167,7 @@ export const managers = [
        //},
        //{
          //"roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "408145371701710848"
+         //"managerID": "408145371701710848"
          //"name": "RexburgheadID",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -187,7 +187,7 @@ export const managers = [
        //},
        //{
          //"roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "741507716576628736"
+         //"managerID": "741507716576628736"
          //"name": "gardner891",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -207,7 +207,7 @@ export const managers = [
        //},
        //{
          //"roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "431847622773317632"
+         //"managerID": "431847622773317632"
          //"name": "ntriley",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
@@ -227,7 +227,7 @@ export const managers = [
        //},
        //{
          //"roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "478562144007221248"
+         //"managerID": "478562144007221248"
          //"name": "kryptycc",
          //"location": "Nova Scotia", // (optional)
          //"bio": "Dear Leader Commissioner",
@@ -248,7 +248,7 @@ export const managers = [
        //},
        //{
          //"roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         //"managerID" : "468910069514235904"
+         //"managerID": "468910069514235904"
          //"name": "PootzNBootz",
          //"location": "TBD", // (optional)
          //"joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
