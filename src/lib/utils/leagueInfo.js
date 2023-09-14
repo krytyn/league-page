@@ -71,7 +71,7 @@ export const managers = [
          "name": "CocoFFL",
          "location": "TBD", // (optional)
          "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
-         "favoriteTeam": "TBD", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+         "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
            name: "TBD", // Can be anything (usually your rival's name)
