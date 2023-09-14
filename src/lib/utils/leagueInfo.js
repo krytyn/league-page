@@ -30,7 +30,7 @@ export const managers = [
          "managerID": "556325345640869888",
          "name": "rjWhitt",
          "location": "TBD", // (optional)
-         "joinedLeague": "Inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "Inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -50,7 +50,7 @@ export const managers = [
          "managerID": "917859003743965184",
          "name": "Catch2wnty2",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -70,7 +70,7 @@ export const managers = [
          "managerID": "725952044090867712",
          "name": "CocoFFL",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "TBD", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -90,7 +90,7 @@ export const managers = [
          "managerID": "332443107603791872",
          "name": "shmoto",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "TBD", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -110,7 +110,7 @@ export const managers = [
          "managerID": "916114371233808384",
          "name": "csteele12",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -130,7 +130,7 @@ export const managers = [
          "managerID": "916114371233808384",
          "name": "Mellis97",
          "location": "Nova Scotia", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "TBD", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -150,7 +150,7 @@ export const managers = [
          "managerID": "739318475067105280",
          "name": "Blitzburgh36",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -170,7 +170,7 @@ export const managers = [
          "managerID": "408145371701710848",
          "name": "RexburgheadID",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "TBD", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -190,7 +190,7 @@ export const managers = [
          "managerID": "741507716576628736",
          "name": "gardner891",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -210,7 +210,7 @@ export const managers = [
          "managerID": "431847622773317632",
          "name": "ntriley",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -231,7 +231,7 @@ export const managers = [
          "name": "kryptycc",
          "location": "Nova Scotia", // (optional)
          "bio": "Dear Leader Commissioner",
-         "joinedLeague": "inauguralSeason" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inauguralSeason 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
@@ -251,7 +251,7 @@ export const managers = [
          "managerID": "468910069514235904",
          "name": "PootzNBootz",
          "location": "TBD", // (optional)
-         "joinedLeague": "inaugural season" 2023, // (optional) when did the manager start playing fantasy football
+         "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "Falcons", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
          "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
