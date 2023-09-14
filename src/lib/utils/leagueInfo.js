@@ -107,7 +107,7 @@ export const managers = [
        },
        {
          "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         "managerID": "916114371233808384",
+         "managerID": "461971921773260800",
          "name": "csteele12",
          "location": "TBD", // (optional)
          "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
@@ -127,7 +127,7 @@ export const managers = [
        },
        {
          "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-         "managerID": "916114371233808384",
+         "managerID": "856280771822981120",
          "name": "Mellis97",
          "location": "Nova Scotia", // (optional)
          "joinedLeague": "inaugural season 2023", // (optional) when did the manager start playing fantasy football
