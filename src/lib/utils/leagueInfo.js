@@ -8,7 +8,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>Founded in 2023, the Armchair Fantasy Experts began as dynasty league amongst a group of fantasy degens connectting through the Fantasy Footballers Podcast looking to come together and create a dynasty league. Each year, the managers compete to win the coveted fantasy football championship ring, and avoid the truly despicable toilet bowl crown.</p>
-  <p>In the innaugural startup season we had managers draft a win now team looking to compete for the coveted ring right away, as well as managers playing for the future of the league and building for a future Juggernaut squad.</p>
+  <p>In the inaugural startup season we had managers draft a win now team looking to compete for the coveted ring right away, as well as managers playing for the future of the league and building for a future Juggernaut squad.</p>
   <p>Will strategies from both sides pan out in the immediate season as well as beyond? Or will injuries and hidden gems arise to cause teams that thought they would win it all to tear it down and rebuild while the rebuilders switch to trading futures and win it all.</p>
   <p>With a great group of managers coming together to create this league, there is no lack of chatting and trading througout the year to keep managers active and on their toes, wondering what they will need to do to get their team to the next step.</p>
   <p>Even though the coveted ring is the end goal for all managers in this league, there is no end to the tilt, memes, and stress that will keep even the last place team engaged until the very end!</p>
